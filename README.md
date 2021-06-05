@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Shahaf-F-S/Shahaf-F-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Shahaf, and I am a self tought programmer. Although a love programming, it isn't my only subject or interest.
+# I am also a scalpture, origami artist, pianist, and I have been painting and drawing for as long as I can remember myself.
+# I am also learning right now phisics, biology, systems engineering and programming.
+# I like to go on hikes, long runs and workouts very early in the morning.
+# My main focus in programmig is Machine Learning and AI, spesifically stock trading apps,
+stock trading and prediction algorithms and evolutionary genetic algorithms for AI.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal projects of Machine Learning, trading algorithms apps and AI.
+- 🌱 I’m currently learning biology, system engineering, phisics and software engineering.
+- 💬 Ask me about biology, system engineering, phisics and programming
+- ⚡ Fun fact: In my main language, the meaning of my name is seagull.
