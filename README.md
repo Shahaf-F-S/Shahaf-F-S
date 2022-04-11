@@ -1,4 +1,4 @@
-**## My name is Shahaf
+## **My name is Shahaf
 
 I am a self tought programmer. Although a love programming so mutch, it isn't my only passion, nor my only subject of interest.
 I have been scalpting with clay, Origami artist, and painting and drawing for as long as I can remember myself.
