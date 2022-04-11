@@ -1,4 +1,4 @@
-## My name is Shahaf
+**## My name is Shahaf
 
 I am a self tought programmer. Although a love programming so mutch, it isn't my only passion, nor my only subject of interest.
 I have been scalpting with clay, Origami artist, and painting and drawing for as long as I can remember myself.
@@ -18,4 +18,4 @@ I have developed and I = am working on projects like:
   - Auto 3D models rendering from source images of an object, as an API, using a remote GPU server.
   - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image manipulation.
 
-Fun fact: In my native language, the meaning of my name is a seagull.
+*Fun fact: In my native language, the meaning of my name is a seagull.
