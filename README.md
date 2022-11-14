@@ -9,8 +9,41 @@ Currentry, I am working on my degree of Computer Science in university.
 
 I like going on hikes and working out very early in the morning.
 My main fields in programmig are software architecture, constructing programming tools, libreries and APIs development, full stack development, Machine Learning, 
-Deep Learning, Genetic Algorithms, algorithmic trading and AI in general, and robotics, mainly using Python, C#, Arduino, C and SQL. 
+Deep Learning, Genetic Algorithms, Natural Language Processing, algorithmic trading, Data Science and Data Analysis, and AI in general, and also robotics. 
 
+I mainly use for development:
+
+(Programming Languages)
+ - Python
+ - C#
+ - Arduino
+ - C/C++
+
+(ML Libraries)
+ - Tensoflow
+ - PyTorch
+ - Huggingface Transformers
+ - Pandas
+ - Numpy
+ - Scikit-Learn
+
+(Web/REST API Tools)
+ - FastAPI
+ - Uvicorn
+
+(GUI Development)
+ - Pillow
+ - TKinter
+ - Kivy/KivyMD
+
+(IDEs - by JetBrains)
+ - Pycharm
+ - IntelliJ
+ - Clion
+ - Rider
+ - DataLore
+ - DatSpell
+ - Gateway
 
 ### I have developed projects like:
   - Automatic trading system for cryptocurrency and algorithmic trading development, with an average daily profit of 40%.
