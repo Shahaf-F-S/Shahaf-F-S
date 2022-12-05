@@ -46,7 +46,7 @@ I mainly use for development:
  - Gateway
 
 ### I have developed projects like:
-  - Automatic trading system for cryptocurrency and algorithmic trading development, with an average daily profit of 40%.
+  - Automatic trading system for cryptocurrency and algorithmic trading development.
   - Passive auto source code documentation generation for python projects.
   - project management system for AI drivven vistual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
   - Auto license plate recognition and extraction using Machine Learning.
