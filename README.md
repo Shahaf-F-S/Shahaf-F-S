@@ -48,7 +48,8 @@ I mainly use for development:
 ### I have developed projects like:
   - Automatic trading system for cryptocurrency and algorithmic trading development.
   - Passive auto source code documentation generation for python projects.
-  - project management system for AI drivven vistual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
+  - PineScript to python program convertor and executer, with reproducible generated python code from pinescript.
+  - Project management system for AI drivven virtual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
   - Auto license plate recognition and extraction using Machine Learning.
   - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and auto live speech to code system.
   - Auto 3D models rendering from source images of an object, as an API, using a remote GPU server, with a GUI desktop app as a client, as well as a client library and a CLI for both client and server.
