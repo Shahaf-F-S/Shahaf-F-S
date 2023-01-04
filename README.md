@@ -16,15 +16,18 @@ I mainly use for development:
 (Programming Languages)
  - Python
  - C#
+ - Java
  - Arduino
  - C/C++
+ 
+(Data Processing Libreries)
+ - Pandas
+ - Numpy
 
 (ML Libraries)
  - Tensoflow
  - PyTorch
  - Huggingface Transformers
- - Pandas
- - Numpy
  - Scikit-Learn
 
 (Web/REST API Tools)
@@ -35,6 +38,8 @@ I mainly use for development:
  - Pillow
  - TKinter
  - Kivy/KivyMD
+ - Android
+ - Flutter
 
 (IDEs - by JetBrains)
  - Pycharm
