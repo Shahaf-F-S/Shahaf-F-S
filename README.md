@@ -47,7 +47,7 @@ I mainly use for development:
  - Clion
  - Rider
  - DataLore
- - DatSpell
+ - DataSpell
  - Gateway
 
 ### I have developed projects like:
