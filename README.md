@@ -23,6 +23,7 @@ I mainly use for development:
 (Data Processing Libreries)
  - Pandas
  - Numpy
+ - Open-CV2
 
 (ML Libraries)
  - Tensoflow
@@ -40,6 +41,7 @@ I mainly use for development:
  - Kivy/KivyMD
  - Android
  - Flutter
+ - Flet
 
 (IDEs - by JetBrains)
  - Pycharm
@@ -51,7 +53,7 @@ I mainly use for development:
  - Gateway
 
 ### I have developed projects like:
-  - Automatic trading system for cryptocurrency and algorithmic trading development.
+  - Automatic trading system for cryptocurrency, stock and Forex, based on Machine-Learning.
   - Passive auto source code documentation generation for python projects.
   - PineScript to python program convertor and executer, with reproducible generated python code from pinescript.
   - Project management system for AI drivven virtual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
