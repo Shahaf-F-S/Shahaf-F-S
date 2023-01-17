@@ -60,6 +60,6 @@ I mainly use for development:
   - Auto license plate recognition and extraction using Machine Learning.
   - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and auto live speech to code system.
   - Auto 3D models rendering from source images of an object, as an API, using a remote GPU server, with a GUI desktop app as a client, as well as a client library and a CLI for both client and server.
-  - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image manipulation.
+  - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image colorization, python addons to enable dynamic type enforcement in runtime, and more.
 
 ### Fun fact: In my native language, the meaning of my name is a seagull.
