@@ -40,6 +40,11 @@ I mainly use for development:
  - FastAPI
  - Uvicorn
 
+(Algo Trading Software Development)
+ - ccxt
+ - python-binance
+ - yfinance
+
 (GUI Development)
  - Pillow
  - TKinter
