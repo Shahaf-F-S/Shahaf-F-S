@@ -2,7 +2,7 @@
 
 
 I am a self tought programmer and a software developer. I love programming so mutch, yet it isn't my only passion, nor is it my only subject of interest.
-I have been a clay sculptor, an Origami artist, a painter, and a pianist, for more than a decade.
+I have been a clay sculptor, an Origami artist, a painter, and a pianist, for more than a decade. I am also compose classical music for piano, and write songs, as well as compose them.
 
 I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
 Currentry, I am working on my degree of Computer Science in university.
