@@ -7,6 +7,11 @@ I have been a clay sculptor, an Origami artist, a painter, and a pianist, for mo
 I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
 Currentry, I am working on my degree of Computer Science in university.
 
+I was teaching Python programming in junior high last year.
+Currently, I teach Computer Science and Software Engineering in high school, as a part-time job, but also teach there additional hours for free, to volunteer there.
+I also work as a private teacher for the same subjects.
+(Funny fact: I graduated less than I year ago, from the same high school I teach in right now, and because I studied there in an independent fast program, some of my current students were my classmates.)
+
 I like going on hikes and working out very early in the morning.
 My main fields in programmig are software architecture, constructing programming tools, libreries and APIs development, full stack development, Machine Learning, 
 Deep Learning, Genetic Algorithms, Natural Language Processing, algorithmic trading, Data Science and Data Analysis, and AI in general, and also robotics. 
