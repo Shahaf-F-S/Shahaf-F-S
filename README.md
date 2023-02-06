@@ -32,6 +32,7 @@ I mainly use for development:
 
 (ML Libraries)
  - Tensoflow
+ - Keras
  - PyTorch
  - Huggingface Transformers
  - Scikit-Learn
@@ -54,7 +55,7 @@ I mainly use for development:
  - Flutter
  - Flet
 
-(IDEs - by JetBrains)
+(IDEs - by JetBrains only)
  - Pycharm
  - IntelliJ
  - Clion
