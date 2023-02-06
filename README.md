@@ -35,6 +35,7 @@ I mainly use for development:
  - PyTorch
  - Huggingface Transformers
  - Scikit-Learn
+ - Scipy
 
 (Web/REST API Tools)
  - FastAPI
@@ -63,13 +64,14 @@ I mainly use for development:
  - Gateway
 
 ### I have developed projects like:
-  - Automatic trading system for cryptocurrency, stock and Forex, based on Machine-Learning.
+  - Automatic highly-profitable trading systems for cryptocurrency, stock and Forex, and arbitrage, some based on Machine-Learning.
+  - A framework for building REST APIs using the wonderful dynamic and alive behaviour of Python.
   - Passive auto source code documentation generation for python projects.
-  - PineScript to python program convertor and executer, with reproducible generated python code from pinescript.
-  - Project management system for AI drivven virtual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
+  - PineScript to python program convertor and executer, with reproducible generated python code from PineScript.
+  - Project creation and management system for AI drivven virtual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
   - Auto license plate recognition and extraction using Machine Learning.
   - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and auto live speech to code system.
-  - Auto 3D models rendering from source images of an object, as an API, using a remote GPU server, with a GUI desktop app as a client, as well as a client library and a CLI for both client and server.
-  - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image colorization, python addons to enable dynamic type enforcement in runtime, and more.
+  - Auto 3D models rendering from source images of a model file, easily integrated as a CLI app or a python module.
+  - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image colorization, python addons to enable overloading, true private and public, dynamic type enforcement in runtime, and more.
 
 ### Fun fact: In my native language, the meaning of my name is a seagull.
