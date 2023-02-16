@@ -22,7 +22,6 @@ I mainly use for development:
  - Python
  - C#
  - Java
- - Arduino
  - C/C++
  
 (Data Processing Libreries)
