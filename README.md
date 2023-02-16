@@ -48,21 +48,20 @@ I mainly use for development:
  - yfinance
 
 (GUI Development)
- - Pillow
- - TKinter
- - Kivy/KivyMD
- - Android
- - Flutter
- - Flet
+ - Pillow (Python)
+ - TKinter (Python)
+ - Kivy/KivyMD (Python)
+ - Android (Java/Kotlin)
+ - Flutter (Dart)
+ - Flet (Python)
 
 (IDEs - by JetBrains only)
- - Pycharm
- - IntelliJ
- - Clion
- - Rider
- - DataLore
- - DataSpell
- - Gateway
+ - Pycharm (Python)
+ - IntelliJ (Java)
+ - Clion (C/C++)
+ - Rider (C#)
+ - DataLore (Python)
+ - DataSpell (Python)
 
 ### I have developed projects like:
   - Automatic highly-profitable trading systems for cryptocurrency, stock and Forex, and arbitrage, some based on Machine-Learning.
