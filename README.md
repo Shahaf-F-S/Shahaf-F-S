@@ -2,19 +2,22 @@
 
 
 I am a self tought programmer and a software developer. I love programming so mutch, yet it isn't my only passion, nor is it my only subject of interest.
-I have been a clay sculptor, an Origami artist, a painter, and a pianist, for more than a decade. I am also compose classical music for piano, and write songs, as well as compose them.
+I have been a pianist, a clay sculptor, an Origami artist, and a painter, for more than a decade. I also compose classical music for piano, and write songs, as well as compose them.
 
 I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
 Currentry, I am working on my degree of Computer Science in university.
 
-I was teaching Python programming in junior high last year.
-Currently, I teach Computer Science and Software Engineering in high school, as a part-time job, but also teach there additional hours for free, to volunteer there.
+I was teaching Python programming in junior high during my senior year in highschool.
+Currently, I teach Computer Science and Software Engineering in high school, but also teach there additional hours for free, to volunteer there.
 I also work as a private teacher for the same subjects.
-(Funny fact: I graduated less than I year ago, from the same high school I teach in right now, and because I studied there in an independent fast program, some of my current students were my classmates.)
+
+I was also a mentor of an FLL team, and a team-member in an FRC team.
+
+fun fact: As was hired by the same highschool I graduated from, after only a couple of months, to teach Computer science and Software Engeeniring. Probabbly because during my senior year, I completed thous majors in 1 term, instead of 6, while compliting 2 other majors.
 
 I like going on hikes and working out very early in the morning.
 My main fields in programmig are software architecture, constructing programming tools, libreries and APIs development, full stack development, Machine Learning, 
-Deep Learning, Genetic Algorithms, Natural Language Processing, algorithmic trading, Data Science and Data Analysis, and AI in general, and also robotics. 
+Deep Learning, Genetic Algorithms, Natural Language Processing, algorithmic trading, Data Science and Data Analysis, and AI in general. 
 
 I mainly use for development:
 
