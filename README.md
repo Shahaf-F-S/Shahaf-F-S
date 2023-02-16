@@ -12,8 +12,9 @@ Currently, I teach Computer Science and Software Engineering in high school, but
 I also work as a private teacher for the same subjects.
 
 I was also a mentor of an FLL team, and a team-member in an FRC team.
+I was hired by the same highschool I graduated from, after only a couple of months, to teach Computer science and Software Engeeniring. Probabbly because during my senior year, I completed thous majors in 1 term, instead of 6, while compliting 2 other majors.
 
-fun fact: As was hired by the same highschool I graduated from, after only a couple of months, to teach Computer science and Software Engeeniring. Probabbly because during my senior year, I completed thous majors in 1 term, instead of 6, while compliting 2 other majors.
+#### Fun fact: In my native language, the meaning of my name is a seagull, but don't worry, it's not really a rare name where I live.
 
 I like going on hikes and working out very early in the morning.
 My main fields in programmig are software architecture, constructing programming tools, libreries and APIs development, full stack development, Machine Learning, 
@@ -75,5 +76,3 @@ I mainly use for development:
   - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and auto live speech to code system.
   - Auto 3D models rendering from source images of a model file, easily integrated as a CLI app or a python module.
   - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image colorization, python addons to enable overloading, true private and public, dynamic type enforcement in runtime, and more.
-
-### Fun fact: In my native language, the meaning of my name is a seagull.
