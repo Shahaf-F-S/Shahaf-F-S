@@ -48,6 +48,7 @@ I mainly use for development:
 (Algo Trading Software Development)
  - ccxt
  - python-binance
+ - unicorn-binance-websocket-api
  - yfinance
 
 (GUI Development)
