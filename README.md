@@ -1,7 +1,7 @@
 # My name is Shahaf
 
 
-I am a self tought programmer and a software developer. I love programming so mutch, yet it isn't my only passion, nor is it my only subject of interest.
+I am a self taught programmer and a software developer. I love programming so mutch, yet it isn't my only passion, nor is it my only subject of interest.
 I have been a pianist, a clay sculptor, an Origami artist, and a painter, for more than a decade. I also compose classical music for piano, and write songs, as well as compose them.
 
 I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
