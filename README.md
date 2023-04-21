@@ -1,18 +1,18 @@
 # My name is Shahaf
 
 
-I am a self taught programmer and a software developer. I love programming so mutch, yet it isn't my only passion, nor is it my only subject of interest.
+I am a self taught programmer and software developer. I love programming so mutch, yet it isn't my only passion, nor is it my only subject of interest.
 I have been a pianist, a clay sculptor, an Origami artist, and a painter, for more than a decade. I also compose classical music for piano, and write songs, as well as compose them.
 
 I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
-Currentry, I am working on my degree of Computer Science in university.
+Currentry.
 
 I was teaching Python programming in junior high during my senior year in highschool.
 Currently, I teach Computer Science and Software Engineering in high school, but also teach there additional hours for free, to volunteer there.
 I also work as a private teacher for the same subjects.
 
 I was also a mentor of an FLL team, and a team-member in an FRC team.
-I was hired by the same highschool I graduated from, after only a couple of months, to teach Computer science and Software Engeeniring. Probabbly because during my senior year, I completed thous majors in 1 term, instead of 6, while compliting 2 other majors.
+I was hired by the same high school I graduated from, after only a couple of months, to teach Computer science and Software Engeeniring. Probabbly because during my senior year, I completed thous majors in 1 term, instead of 6, while compliting 2 other majors.
 
 #### Fun fact: In my native language, the meaning of my name is a seagull, but don't worry, it's not really a rare name where I live.
 
@@ -39,7 +39,7 @@ I mainly use for development:
  - PyTorch
  - Huggingface Transformers
  - Scikit-Learn
- - Scipy
+ - SciPy
 
 (Web/REST API Tools)
  - FastAPI
