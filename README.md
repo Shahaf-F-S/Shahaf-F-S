@@ -47,6 +47,7 @@ I mainly use for development:
 
 (Algo Trading Software Development)
  - ccxt
+ - cryptofeed
  - python-binance
  - unicorn-binance-websocket-api
  - yfinance
