@@ -5,7 +5,6 @@ I am a self taught programmer and software developer. I love programming so mutc
 I have been a pianist, a clay sculptor, an Origami artist, and a painter, for more than a decade. I also compose classical music for piano, and write songs, as well as compose them.
 
 I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
-Currentry.
 
 I was teaching Python programming in junior high during my senior year in highschool.
 Currently, I teach Computer Science and Software Engineering in high school, but also teach there additional hours for free, to volunteer there.
