@@ -1,9 +1,7 @@
 # My name is Shahaf
 
 
-I am a self taught programmer and software developer. Along side being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, and a painter, my whole life. I also compose classical music for piano, as well as write lyrics and music for my songs from time to time.
-
-I am also learning right now phisics, biology, electronics, 3D modeling, systems engineering, programming and sortware engineering.
+I am a self taught programmer and software developer. Along side being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, and a painter, my whole life. I also compose classical music for the piano, as well as write lyrics and music for my songs from time to time.
 
 I am a Computer Science and Software Engineering teacher in highschool, as well as in juniorhigh.
 I also work as a private teacher for those subjects.
@@ -27,6 +25,7 @@ Tools, libraries and languages I typically use:
  - C#
  - Java
  - C/C++
+ - Arduino
  
 (Data Processing Libreries)
  - Pandas
@@ -34,7 +33,7 @@ Tools, libraries and languages I typically use:
  - CV2
  - SciPy
 
-(ML Libraries)
+(ML and DL Libraries)
  - Tensoflow
  - Keras
  - PyTorch
@@ -49,7 +48,7 @@ Tools, libraries and languages I typically use:
  - Selenium
  - Beautiful Soup
 
-(Algo Trading Software Development)
+(Finance libraries)
  - ccxt
  - cryptofeed
 
@@ -68,11 +67,11 @@ Tools, libraries and languages I typically use:
 
 ### I have developed projects like:
   - Automatic real-time cryptocurrency markets screening framework.
-  - Cryptocurrency Arbitrage framework for developing systems to detect single-exchange and multi-exchange Arbitrage opportunities across the markets, process, analyze, record them, and trade accordingly.
-  - A framework for building REST APIs and Bluetooth or Sockets servers that behave as a modern APIs do.
+  - Cryptocurrency Arbitrage framework for developing systems to detect single-exchange and multi-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
+  - A framework for building REST APIs and Bluetooth or Sockets servers that behave as modern APIs do.
   - A fully customisable python module for pretty printing, representing, and processing python objects and their data.
   - Project creation and management system for AI drivven virtual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
   - Auto license plate recognition and extraction using Machine Learning.
-  - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and auto live speech to code system.
-  - Auto 3D models rendering from source images of an object, easily integrated as a CLI app or a python module.
-  - Simple utils packages for: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper, image colorization, python addons to enable overloading, true private and public, dynamic type enforcement in runtime, and more.
+  - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and live voice feed option.
+  - A python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
+  - Some more projects: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper for modern development, black&white image colorization, python module for adding to the language overloading, true private and public, dynamic and automatic type enforcement at runtime, and more.
