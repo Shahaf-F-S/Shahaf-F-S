@@ -73,12 +73,11 @@ Tools, libraries, and languages I typically use:
  - Rider (C#)
 
 ### I have developed projects like:
-  - Automatic real-time cryptocurrency markets screening framework.
+  - Automatic real-time cryptocurrency markets screening framework, for local recording and broadcasting data through Websockets and REST APIs.
   - Cryptocurrency Arbitrage framework for developing systems to detect single-exchange and multi-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
   - A framework for building REST APIs and Bluetooth or Sockets servers that behave as modern APIs do.
-  - A fully customisable python module for pretty printing, representing, and processing python objects and their data.
-  - Project creation and management system for AI drivven virtual assistant development, for custom neural network modeling, dynamic dataset, and learning process.
   - Auto license plate recognition and extraction using Machine Learning.
-  - Text to code conversion supporting programming languages like: Python, C#, C, C++, Arduino, and Java, with auto syntax completion, and live voice feed option.
-  - A python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
-  - Some more projects: Text To Speech, Speech Recognition, Text Sentiment Analysis, Sockets wrapper for modern development, black&white image colorization, python module for adding to the language overloading, true private and public, dynamic and automatic type enforcement at runtime, and more.
+  - Modern Sockets framework based on dynamic socket objects capable of switching between protocols, specified as a dependency, injected into each socket object.
+  - A Python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
+  - A Python extension for adding to the language overloading, object casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
+  - Some more projects: Text-to-speech, Speech Recognition, Text Sentiment Analysis, black-and-white image colorization, and more.
