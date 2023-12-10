@@ -19,7 +19,7 @@ I currently teach the following courses:
 I was also a mentor of an FLL team and a member of an FRC team.
 
 
-#### Fun fact: In my native language, the meaning of my name is a seagull 🪽, but don't worry, it's not really a rare name where I live.
+#### Fun fact: In my native language, the meaning of my name is a seagull 🪽, sounds bad, but it's not really a rare name where I live.
 
 My main fields in software development are: 
 - Finance, Quantitative Programming, and Algorithmic Trading
