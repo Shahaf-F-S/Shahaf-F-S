@@ -1,13 +1,11 @@
-# My name is Shahaf
+# Hi 👋, My name is Shahaf
 
 
 I am a self-taught programmer and software developer. 
-Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, a a painter, my whole life. 
-I also compose music for the piano, as well as write and compose songs.
+Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, a painter, my whole life. 
+I also sketch and draw, compose music for the piano, as well as write and compose songs of my own.
 
-I am a Computer Science and Software Engineering teacher in high school, and have been previously teaching in Junior high.
-I also work as a private teacher for those subjects.
-
+I am a full-time Computer Science and Software Engineering teacher in high school.
 I currently teach the following courses:
 
 - Programming in Python
@@ -17,14 +15,14 @@ I currently teach the following courses:
 - State Machines Theory
 - Deep Learning
 
-I was also a mentor of an FLL team and a team member of an FRC team.
+I was also a mentor of an FLL team and a member of an FRC team.
 
 
-#### Fun fact: In my native language, the meaning of my name is a seagull, but don't worry, it's not really a rare name where I live.
+#### Fun fact: In my native language, the meaning of my name is a seagull 🪽, but don't worry, it's not really a rare name where I live.
 
 My main fields in software development are: 
-- finance, quantitative programming, and algorithmic trading
-- Data Science, Machine Learning, Deep Learning, and Genetic Algorithms
+- Finance, Quantitative Programming, and Algorithmic Trading
+- Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
 - real-time large scale systems for data handling, storing, serving and communication
 - and more...
 
@@ -41,13 +39,13 @@ Tools, libraries, and languages I typically use:
  - pandas
  - numpy
  - cv2 (opencv)
+ - Pillow
  - scipy
 
 (ML and DL Libraries)
  - tensoflow
  - keras
  - pytorch
- - huggingface-transformers
  - scikit-learn
 
  (Networking Libraries)
@@ -75,11 +73,10 @@ Tools, libraries, and languages I typically use:
  - crypto-arbitrage (written by me)
 
 (GUI Development)
- - Pillow (Python)
  - tkinter (Python)
  - kivy/kivyMD (Python)
  - Android (Java/Kotlin)
- - flet (Python)
+ - flutter/flet (Dart/Python)
 
 (IDEs - by JetBrains only)
  - Pycharm (Python)
