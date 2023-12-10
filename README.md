@@ -9,7 +9,7 @@ I am a full-time Computer Science and Software Engineering teacher in high schoo
 
 I currently teach the following courses:
 
-- Programming in Python
+- Programming in Python ![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&psig=AOvVaw2uJFUgLU05c8wZAnWZNHjs&ust=1702291464617000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi5pYTYhIMDFQAAAAAdAAAAABAH) "python")
 - Programming in C#
 - Data Structures and Algorithms
 - Networking and Data Systems Engineering
