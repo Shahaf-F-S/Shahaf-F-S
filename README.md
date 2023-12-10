@@ -22,8 +22,11 @@ I was also a mentor of an FLL team and a team member of an FRC team.
 
 #### Fun fact: In my native language, the meaning of my name is a seagull, but don't worry, it's not really a rare name where I live.
 
-My main fields in programming are finance and quantitative programming, Machine Learning, 
-Deep Learning, Genetic Algorithms, Natural Language Processing, and algorithmic trading.
+My main fields in software development are: 
+- finance, quantitative programming, and algorithmic trading
+- Data Science, Machine Learning, Deep Learning, and Genetic Algorithms
+- real-time large scale systems for data handling, storing, serving and communication
+- and more...
 
 Tools, libraries, and languages I typically use:
 
@@ -54,15 +57,22 @@ Tools, libraries, and languages I typically use:
  - requests
  - selenium
  - bs4 (beautiful-soup)
+ - pysocketsio (written by me)
+ - dynamic-service (written by me)
 
-(Finance libraries)
+(Finance Libraries)
 - blankly
 - yfinance
 - TALib
+- orderbook
+- market-break (written by me)
 
-(Cryptocurrency libraries)
+(Cryptocurrency Libraries)
  - ccxt
  - cryptofeed
+ - crypto-info (written by me)
+ - crypto-screening (written by me)
+ - crypto-arbitrage (written by me)
 
 (GUI Development)
  - Pillow (Python)
@@ -79,11 +89,13 @@ Tools, libraries, and languages I typically use:
 
 ### I have developed projects like:
   - Automatic real-time cryptocurrency markets screening framework, for local recording and broadcasting data through Websockets and REST APIs.
-  - Cryptocurrency Arbitrage framework for developing systems to detect single-exchange and multi-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
+  - Cryptocurrency Arbitrage framework for developing systems to detect internal-exchange and cross-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
   - A framework for dynamically building REST APIs in Python.
-  - A Socket based networking framework in Python, for modular, composition based programming.
+  - A Socket based networking framework in Python, for modular, composition based programming, enabling building large scale servers and clients easily, build communication protocols without limit and compose complex custom data streaming systems.
   - Auto license plate recognition and extraction using Machine Learning.
   - A Genetic Algorithm framework for building robust yet dynamic and elegant learning environments, including the neat algorithm for multi-modal evolution of Neural Networks.
+  - A video editing framework in python, fully supporting video and audio, enabling you to load and save, cut and merge, edit, replace, and everything in between.
   - A Python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
   - A Python extension for adding to the language overloading, object casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
+  - A package containing objects to easily control loop or conditions based operations, in single and multi threading, with pausing and unpauding capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling. All by method calls and decleration - no if statements, try statements, logic, loops or threading required.
   - Some more projects: Text-to-speech, Speech Recognition, Text Sentiment Analysis, black-and-white image colorization, and more.
