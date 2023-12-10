@@ -11,10 +11,10 @@ I currently teach the following courses:
 
 - programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 - Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
-- Data Structures and Algorithms
-- Networking and Data Systems Engineering
-- State Machines Theory
-- Deep Learning
+- Data Structures and Algorithms <a title="Data Structures & Algorithms"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="Data Structures & Algorithms" width="21px" height="21px"></a>
+- Networking and Data Systems Engineering <a title="Networking & Data Systems"><img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking & Data Systems" width="21px" height="21px"></a>
+- State Machines <a title="State Machines"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px"></a>
+- Deep Learning <a title="Deep Learning"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103787.png" alt="Deep Learning" width="21px" height="21px"></a>
 
 I was also a mentor of an FLL team and a member of an FRC team.
 
@@ -30,32 +30,30 @@ My main fields in software development are:
 Tools, libraries, and languages I typically use:
 
 (Programming Languages)
- - Python
- - C#
- - Java
- - C/C++
- - Arduino
+ - Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+ - C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
+ - Java <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
+ - C/C++ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a> <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
+ - Arduino <a href=https://www.arduino.cc/ title="Arduino"><img src="https://miro.medium.com/v2/resize:fit:1024/1*grcYwW_zgkpzP0VEsh3vOg.png" alt="Arduino" width="21px" height="21px"></a>
  
 (Data Processing Libreries)
- - pandas
- - numpy
- - cv2 (opencv)
- - Pillow
- - scipy
+ - pandas <a href=https://pandas.pydata.org/ title="Pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="Pandas" width="21px" height="21px"></a>
+ - numpy <a href=https://numpy.org/ title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
+ - opencv <a href=https://opencv.org/ title="OpenCV"><img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="21px" height="21px"></a>
 
 (ML and DL Libraries)
- - tensoflow
- - keras
- - pytorch
- - scikit-learn
+ - tensoflow <a href=https://opencv.org/ title="Tensorflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="Tensorflow" width="21px" height="21px"></a>
+ - keras <a href=https://keras.io/ title="Keras"><img src="https://static-00.iconduck.com/assets.00/keras-icon-512x512-q43erbjp.png" alt="Keras" width="21px" height="21px"></a>
+ - torch <a href=https://pytorch.org/ title="Torch"><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="Torch" width="21px" height="21px"></a>
+ - scikit-learn <a href=https://opencv.org/ title="Scikit-Learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40px" height="21px"></a>
 
  (Networking Libraries)
- - FastAPI
+ - FastAPI <a href=https://fastapi.tiangolo.com/ title="FastAPI"><img src=https://cdn.worldvectorlogo.com/logos/fastapi.svg alt="FastAPI" width="21px" height="21px"></a>
  - uvicorn
  - sockets
  - requests
  - selenium
- - bs4 (beautiful-soup)
+ - beautifulsoup
  - pysocketsio (written by me)
  - dynamic-service (written by me)
 
