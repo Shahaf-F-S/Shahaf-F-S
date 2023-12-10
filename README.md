@@ -2,7 +2,7 @@
 
 
 I am a self-taught programmer and software developer. 
-Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, a painter, my whole life. 
+Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, and a painter, my whole life. 
 I also sketch and draw, compose music for the piano, as well as write and compose songs of my own.
 
 I am a full-time Computer Science and Software Engineering teacher in high school, and I work on side projects and my hobbies in my free time.
@@ -10,7 +10,7 @@ I am a full-time Computer Science and Software Engineering teacher in high schoo
 I currently teach the following courses:
 
 - programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-- Programming in C#
+- Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp" alt="C#" width="21px" height="21px"></a>
 - Data Structures and Algorithms
 - Networking and Data Systems Engineering
 - State Machines Theory
