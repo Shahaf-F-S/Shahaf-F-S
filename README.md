@@ -1,4 +1,4 @@
-# Hi 👋, My name is Shahaf
+# Hi 👋 My name is Shahaf
 
 
 I am a self-taught programmer and software developer. 
@@ -19,12 +19,12 @@ I currently teach the following courses:
 I was also a mentor of an FLL team and a member of an FRC team.
 
 
-#### Fun fact: In my native language, the meaning of my name is a seagull 🪽, sounds bad, but it's not really a rare name where I live.
+#### Fun fact: In my native language, the meaning of my name is a seagull 🪽, sounds bad, but it's not a rare name where I live.
 
 My main fields in software development are: 
 - Finance, Quantitative Programming, and Algorithmic Trading
 - Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
-- real-time large scale systems for data handling, storing, serving and communication
+- real-time large-scale systems for data handling, storing, serving, and communication
 - and more...
 
 Tools, libraries, and languages I typically use:
@@ -85,15 +85,25 @@ Tools, libraries, and languages I typically use:
  - Clion (C/C++)
  - Rider (C#)
 
-### I have developed projects like:
+### I have worked (or still working) on projects like:
   - Automatic real-time cryptocurrency markets screening framework, for local recording and broadcasting data through Websockets and REST APIs.
-  - Cryptocurrency Arbitrage framework for developing systems to detect internal-exchange and cross-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
-  - A framework for dynamically building REST APIs in Python.
-  - A Socket based networking framework in Python, for modular, composition based programming, enabling building large scale servers and clients easily, build communication protocols without limit and compose complex custom data streaming systems.
+    
+  - Cryptocurrency Arbitrage framework for developing systems to detect inside-exchange and cross-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
+    
+  - A framework for dynamically building REST APIs in Python, and controlling during run-time their behavior.
+    
+  - A Socket-based networking framework in Python, for modular, composition-based programming, enabling building large-scale servers and clients easily, building communication protocols without limit, and composing complex custom data streaming systems.
+    
   - Auto license plate recognition and extraction using Machine Learning.
+    
   - A Genetic Algorithm framework for building robust yet dynamic and elegant learning environments, including the neat algorithm for multi-modal evolution of Neural Networks.
-  - A video editing framework in python, fully supporting video and audio, enabling you to load and save, cut and merge, edit, replace, and everything in between.
+    
+  - A video editing framework in Python, fully supporting video and audio, enabling you to load and save, cut and merge, edit, replace, and everything in between.
+    
   - A Python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
+    
   - A Python extension for adding to the language overloading, object casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
-  - A package containing objects to easily control loop or conditions based operations, in single and multi threading, with pausing and unpauding capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling. All by method calls and decleration - no if statements, try statements, logic, loops or threading required.
+    
+  - A package containing objects to easily control loop or conditions-based operations, in single and multi-threading, with pausing and unpauding capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling. All by method calls and declaration - no if statements, try statements, logic, loops, or threading required.
+    
   - Some more projects: Text-to-speech, Speech Recognition, Text Sentiment Analysis, black-and-white image colorization, and more.
