@@ -9,7 +9,7 @@ I am a full-time Computer Science and Software Engineering teacher in high schoo
 
 I currently teach the following courses:
 
-* [![Python][python.org]][python-url]
+- <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 - Programming in C#
 - Data Structures and Algorithms
 - Networking and Data Systems Engineering
