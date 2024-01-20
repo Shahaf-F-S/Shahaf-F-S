@@ -5,16 +5,18 @@ I am a self-taught programmer and software developer.
 Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, and a painter, my whole life. 
 I also sketch and draw, compose music for the piano, as well as write and compose songs of my own.
 
-I am a full-time Computer Science and Software Engineering teacher in high school, and I work on side projects and my hobbies in my free time.
+I am a full-time Computer Science, Software Engineering, and Systems Engineering teacher in high school, and I work on side projects and my hobbies in my free time.
 
 I currently teach the following courses:
 
 - programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 - Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
-- Data Structures and Algorithms <a title="Data Structures & Algorithms"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="Data Structures & Algorithms" width="21px" height="21px"></a>
-- Networking and Data Systems Engineering <a title="Networking & Data Systems"><img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking & Data Systems" width="21px" height="21px"></a>
-- State Machines <a title="State Machines"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px"></a>
+- Data Structures & Algorithms <a title="Data Structures & Algorithms"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="Data Structures & Algorithms" width="21px" height="21px"></a>
+- Networking & Data Systems Engineering <a title="Networking & Data Systems"><img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking & Data Systems" width="21px" height="21px"></a>
+- Formal Languages & State Machines <a title="State Machines"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px"></a>
 - Deep Learning <a title="Deep Learning"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103787.png" alt="Deep Learning" width="21px" height="21px"></a>
+- Control Systems & Robotics <a title="Deep Learning"><img src="https://www.protolabs.com/media/ht5byogn/robotics-icon.png" alt="Deep Learning" width="21px" height="21px"></a>
+- Numerical Systems & Electronics <a title="Deep Learning"><img src="https://cdn0.iconfinder.com/data/icons/engineering-3/64/electronics-512.png" alt="Deep Learning" width="21px" height="21px"></a>
 
 I was also a mentor of an FLL team and a member of an FRC team.
 
@@ -24,7 +26,7 @@ I was also a mentor of an FLL team and a member of an FRC team.
 My main fields in software development are: 
 - Finance, Quantitative Programming, and Algorithmic Trading
 - Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
-- real-time large-scale systems for data handling, storing, serving, and communication
+- real-time large-scale systems for data handling, storing, serving, and transmission by network
 - and more...
 
 Tools, libraries, and languages I typically use:
@@ -48,28 +50,24 @@ Tools, libraries, and languages I typically use:
  - scikit-learn <a href=https://opencv.org/ title="Scikit-Learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40px" height="21px"></a>
 
  (Networking Libraries)
- - FastAPI <a href=https://fastapi.tiangolo.com/ title="FastAPI"><img src=https://cdn.worldvectorlogo.com/logos/fastapi.svg alt="FastAPI" width="21px" height="21px"></a>
+ - fastapi <a href=https://fastapi.tiangolo.com/ title="FastAPI"><img src=https://cdn.worldvectorlogo.com/logos/fastapi.svg alt="FastAPI" width="21px" height="21px"></a>
  - uvicorn
- - sockets
+ - socket
+ - htmx
  - requests
- - selenium
- - beautifulsoup
- - pysocketsio (written by me)
- - dynamic-service (written by me)
+ - sockets-os (written by me)
+ - auto-fastapi (written by me)
 
 (Finance Libraries)
 - blankly
 - yfinance
 - TALib
-- orderbook
-- market-break (written by me)
+- pandasTA
+- backtest.py
 
 (Cryptocurrency Libraries)
  - ccxt
- - cryptofeed
- - crypto-info (written by me)
- - crypto-screening (written by me)
- - crypto-arbitrage (written by me)
+ - cryptocore (written by me)
 
 (GUI Development)
  - tkinter (Python)
@@ -84,24 +82,20 @@ Tools, libraries, and languages I typically use:
  - Rider (C#)
 
 ### I have worked (or still working) on projects like:
-  - Automatic real-time cryptocurrency markets screening framework, for local recording and broadcasting data through Websockets and REST APIs.
+  - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, and sharing data. Also manages high-level trade chain representations, with an arbitrage engine.
+        
+  - A Socket-based networking framework in Python, for modular and asynchronous composition-based programming, enabling building large-scale servers and clients easily and efficiently, with custom callbacks, data storing, and automatic updates and transmissions of data across systems.
     
-  - Cryptocurrency Arbitrage framework for developing systems to detect inside-exchange and cross-exchange Arbitrage opportunities in real-time across the markets, to process, analyze, record, and trade accordingly.
-    
-  - A framework for dynamically building REST APIs in Python, and controlling during run-time their behavior.
-    
-  - A Socket-based networking framework in Python, for modular, composition-based programming, enabling building large-scale servers and clients easily, building communication protocols without limit, and composing complex custom data streaming systems.
+  - A Texas-Hold'em framework, with an efficient probability engine to compute all possible outcomes of the game at any stage, and calculate chances of success according to multiple criteria. Includes a game engine to run the game, vision card detection, and is easily integrated with web APIs.
     
   - Auto license plate recognition and extraction using Machine Learning.
-    
-  - A Genetic Algorithm framework for building robust yet dynamic and elegant learning environments, including the neat algorithm for multi-modal evolution of Neural Networks.
-    
+        
   - A video editing framework in Python, fully supporting video and audio, enabling you to load and save, cut and merge, edit, replace, and everything in between.
     
   - A Python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
     
-  - A Python extension for adding to the language overloading, object casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
+  - A Python extension for adding to the language features like overloading, casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
     
-  - A package containing objects to easily control loop or conditions-based operations, in single and multi-threading, with pausing and unpauding capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling. All by method calls and declaration - no if statements, try statements, logic, loops, or threading required.
+  - A composition framework for easily controlling loops and conditions-based operations, in single and multi-threading, asynchronous, with pausing and unpausing capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling.
     
   - Some more projects: Text-to-speech, Speech Recognition, Text Sentiment Analysis, black-and-white image colorization, and more.
