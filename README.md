@@ -23,7 +23,7 @@ I was also a mentor of an FLL team and a member of an FRC team.
 
 #### Fun fact: In my native language, the meaning of my name is a seagull 🪽, sounds bad, but it's not a rare name where I live.
 
-My main fields in software development are: 
+The software fields are I'm most interested in: 
 - Finance, Quantitative Programming, and Algorithmic Trading
 - Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
 - real-time large-scale systems for data handling, storing, serving, and transmission by network
