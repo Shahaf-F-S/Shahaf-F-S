@@ -56,7 +56,7 @@ Tools, libraries, and languages I typically use:
  - htmx
  - requests
  - sockets-os (written by me)
- - auto-fastapi (written by me)
+ - data-place (written by me)
 
 (Finance Libraries)
 - blankly
@@ -82,7 +82,7 @@ Tools, libraries, and languages I typically use:
  - Rider (C#)
 
 ### I have worked (or still working) on projects like:
-  - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, and sharing data. Also manages high-level trade chain representations, with an arbitrage engine.
+  - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, modeling, experimenting, and sharing data. Also manages high-level trade chain representations, including an arbitrage engine.
         
   - A Socket-based networking framework in Python, for modular and asynchronous composition-based programming, enabling building large-scale servers and clients easily and efficiently, with custom callbacks, data storing, and automatic updates and transmissions of data across systems.
     
@@ -96,6 +96,6 @@ Tools, libraries, and languages I typically use:
     
   - A Python extension for adding to the language features like overloading, casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
     
-  - A composition framework for easily controlling loops and conditions-based operations, in single and multi-threading, asynchronous, with pausing and unpausing capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling.
+  - A composition-based framework for easily controlling loops and conditions-based operations, in single and multi-threading, asynchronous, with pausing and unpausing capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling.
     
   - Some more projects: Text-to-speech, Speech Recognition, Text Sentiment Analysis, black-and-white image colorization, and more.
