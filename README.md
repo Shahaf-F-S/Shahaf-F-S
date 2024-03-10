@@ -12,7 +12,7 @@ I currently teach the following courses:
 - programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 - Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
 - Data Structures & Algorithms <a title="Data Structures & Algorithms"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="Data Structures & Algorithms" width="21px" height="21px"></a>
-- Networking & Data Systems Engineering <a title="Networking & Data Systems"><img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking & Data Systems" width="21px" height="21px"></a>
+- Networking & Cyber-Security & Data Systems Engineering <a title="Networking & Data Systems"><img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking & Data Systems" width="21px" height="21px"></a>
 - Formal Languages & State Machines <a title="State Machines"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px"></a>
 - Deep Learning <a title="Deep Learning"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103787.png" alt="Deep Learning" width="21px" height="21px"></a>
 - Control Systems & Robotics <a title="Deep Learning"><img src="https://www.protolabs.com/media/ht5byogn/robotics-icon.png" alt="Deep Learning" width="21px" height="21px"></a>
