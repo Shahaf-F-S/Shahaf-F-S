@@ -5,7 +5,7 @@ I am a self-taught software developer.
 Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, and a painter, my whole life. 
 I also sketch and draw, compose music for the piano, and write.
 
-I am a full-time Computer Science, Software Engineering, and Systems Engineering teacher in high school, and I work on side projects and my hobbies in my free time.
+I am a full-time Computer Science, Software Engineering, and Systems Engineering and Robotics teacher in high school, and I work on side projects and my hobbies in my free time.
 
 I currently teach the following courses:
 
@@ -18,7 +18,7 @@ I currently teach the following courses:
 - Control Systems & Robotics <a title="Deep Learning"><img src="https://www.protolabs.com/media/ht5byogn/robotics-icon.png" alt="Deep Learning" width="21px" height="21px"></a>
 - Numerical Systems & Electronics <a title="Deep Learning"><img src="https://cdn0.iconfinder.com/data/icons/engineering-3/64/electronics-512.png" alt="Deep Learning" width="21px" height="21px"></a>
 
-I was also a mentor of an FLL team and a member of an FRC team.
+I was also a mentor of an FLL team and a member of an FRC team back when I was in highschool.
 
 
 #### Fun fact: In my native language, the meaning of my name is a seagull 🪽, sounds bad, but it's not a rare name where I live.
@@ -26,7 +26,8 @@ I was also a mentor of an FLL team and a member of an FRC team.
 The fields of software engineering in which I'm most interested, are: 
 - Finance, Quantitative Programming, and Algorithmic Trading
 - Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
-- real-time large-scale systems for data handling, storing, serving, and transmission by network
+- Cyber-Security, networking and communication, spying on devices, backdoor desining and controlling devices.
+- real-time large-scale systems for data handling, processing, storing, serving, and transmission by network
 - and more...
 
 Tools, libraries, and languages I typically use:
@@ -55,6 +56,9 @@ Tools, libraries, and languages I typically use:
  - socket
  - htmx
  - requests
+ - scapy
+ - backdoor-io (written by me)
+ - sniffing-io (written by me)
  - sockets-os (written by me)
  - data-place (written by me)
 
@@ -75,18 +79,25 @@ Tools, libraries, and languages I typically use:
  - Android (Java/Kotlin)
  - flutter/flet (Dart/Python)
 
-(IDEs - by JetBrains only)
+(IDEs - by JetBrains only 🙃)
  - Pycharm (Python)
  - IntelliJ (Java)
  - Clion (C/C++)
  - Rider (C#)
 
+(other tools)
+ - WireShark
+
 ### I have worked (or still working) on projects like:
   - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, modeling, experimenting, and sharing data. Also manages high-level trade chain representations, including an arbitrage engine.
+
+  - Automation and orchestration system for controlling one computer using another, with a flexible and dynamic python/JSON based interface. Enables encapsulated/shared memory for processes, running commands sequentially/in parallel, creating custom commands, manipulating memory, transferring and creating files, executing code, running shell commands, and more.
         
   - A Socket-based networking framework in Python, for modular and asynchronous composition-based programming, enabling building large-scale servers and clients easily and efficiently, with custom callbacks, data storing, and automatic updates and transmissions of data across systems.
     
   - A Texas-Hold'em framework, with an efficient probability engine to compute all possible outcomes of the game at any stage, and calculate chances of success according to multiple criteria. Includes a game engine to run the game, vision card detection, and is easily integrated with web APIs.
+
+  - Dynamic and pythonic packet sniffing system based around scapy sniffing, but much more modular, with real-time control over sniffing processes, a dynamic JSON supporting filtering system, for constructing static filters in real-time.
     
   - Auto license plate recognition and extraction using Machine Learning.
         
