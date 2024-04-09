@@ -26,7 +26,7 @@ I was also a mentor of an FLL team and a member of an FRC team back when I was i
 The fields of software engineering in which I'm most interested, are: 
 - Finance, Quantitative Programming, and Algorithmic Trading
 - Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
-- Cyber-Security, networking and communication, spying on devices, backdoor desining and controlling devices.
+- Cyber-Security, networking and communication, spying on devices, remote take-over, virus and worm design, and more.
 - real-time large-scale systems for data handling, processing, storing, serving, and transmission by network
 - and more...
 
@@ -98,6 +98,10 @@ Tools, libraries, and languages I typically use:
   - A Texas-Hold'em framework, with an efficient probability engine to compute all possible outcomes of the game at any stage, and calculate chances of success according to multiple criteria. Includes a game engine to run the game, vision card detection, and is easily integrated with web APIs.
 
   - Dynamic and pythonic packet sniffing system based around scapy sniffing, but much more modular, with real-time control over sniffing processes, a dynamic JSON supporting filtering system, for constructing static filters in real-time.
+    
+  - A CLI tool for binding programmatically many files into an executable, able to run custom commands using the specified files.
+    
+  - A python librery for extracting, decrypting and collecting sensitive data from the local databases of all major web-browsers, on windows, linux, and mac.
     
   - Auto license plate recognition and extraction using Machine Learning.
         
