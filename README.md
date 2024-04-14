@@ -88,7 +88,7 @@ Tools, libraries, and languages I typically use:
 (other tools)
  - WireShark
 
-### I have worked (or still working) on projects like:
+### Some of the projects I have worked on (or still am working on):
   - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, modeling, experimenting, and sharing data. Also manages high-level trade chain representations, including an arbitrage engine.
 
   - Automation and orchestration system for controlling one computer using another, with a flexible and dynamic python/JSON based interface. Enables encapsulated/shared memory for processes, running commands sequentially/in parallel, creating custom commands, manipulating memory, transferring and creating files, executing code, running shell commands, and more.
@@ -109,8 +109,4 @@ Tools, libraries, and languages I typically use:
     
   - A Python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
     
-  - A Python extension for adding to the language features like overloading, casting, dynamic and automatic type enforcement at runtime, protected private attributes, and more.
-    
   - A composition-based framework for easily controlling loops and conditions-based operations, in single and multi-threading, asynchronous, with pausing and unpausing capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling.
-    
-  - Some more projects: Text-to-speech, Speech Recognition, Text Sentiment Analysis, black-and-white image colorization, and more.
