@@ -57,9 +57,9 @@ Tools, libraries, and languages I typically use:
  - htmx
  - requests
  - scapy
- - backdoor-io (written by me)
+ - reverse-shell-io (written by me)
  - sniffing-io (written by me)
- - sockets-os (written by me)
+ - sockets-io (written by me)
  - data-place (written by me)
 
 (Finance Libraries)
@@ -90,6 +90,8 @@ Tools, libraries, and languages I typically use:
 
 ### Some of the projects I have worked on (or still am working on):
   - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, modeling, experimenting, and sharing data. Also manages high-level trade chain representations, including an arbitrage engine.
+    
+  - An interface and communication protocol framework for controlling computers through json based messages. Capable of crafting simple os commands up to sequential and automated advanced control commands.
 
   - Automation and orchestration system for controlling one computer using another, with a flexible and dynamic python/JSON based interface. Enables encapsulated/shared memory for processes, running commands sequentially/in parallel, creating custom commands, manipulating memory, transferring and creating files, executing code, running shell commands, and more.
         
