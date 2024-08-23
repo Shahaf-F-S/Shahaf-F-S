@@ -7,7 +7,7 @@ I also sketch and draw, compose music for the piano, and write.
 
 I am a full-time Computer Science, Software Engineering, and Systems Engineering and Robotics teacher in high school, and I work on side projects and my hobbies in my free time.
 
-I currently teach the following courses:
+Courses have taught and currently teach:
 
 - programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 - Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
