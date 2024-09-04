@@ -55,15 +55,12 @@ Tools, libraries, and languages I typically use:
  - uvicorn
  - socket
  - htmx
- - requests
  - scapy
  - reverse-shell-io (written by me)
- - sniffing-io (written by me)
  - sockets-io (written by me)
  - data-place (written by me)
 
 (Finance Libraries)
-- blankly
 - yfinance
 - TALib
 - pandasTA
