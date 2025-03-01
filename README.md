@@ -1,11 +1,9 @@
 # Hi 👋 My name is Shahaf
 
 
-I am a self-taught software developer. 
-Alongside being a passionate developer, I have been a pianist, a clay sculptor, an Origami artist, and a painter, my whole life. 
-I also sketch and draw, compose music for the piano, and write.
+I am a passionate software developer, a pianost and a composer.
 
-I am a Computer Science, Software Engineering, and Systems Engineering and Robotics teacher in high school, and I work on side projects and my hobbies in my free time.
+I am a high-school teacher, teaching Computer Science, Software Engineering, Cyber Security, Systems Engineering and Robotics, and I work on side-projects and my hobbies in my free time.
 I am also studying biology alongside Data Science and AI at university.
 
 Courses I have taught and currently teach:
