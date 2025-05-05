@@ -6,7 +6,7 @@ I am a passionate software developer, a pianost and a composer.
 I am a high-school teacher, teaching Computer Science, Software Engineering, Cyber Security, Systems Engineering and Robotics, and I work on side-projects and my hobbies in my free time.
 I am also studying biology alongside Data Science and AI at university.
 
-Courses I have taught and currently teach:
+Courses and topics I have taught and currently teach:
 
 - programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 - Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
