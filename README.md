@@ -1,7 +1,7 @@
 # Hi 👋 My name is Shahaf
 
 
-I am a passionate software developer, a pianost and a composer.
+I am a passionate software developer and a pianist.
 
 I am a high-school teacher, teaching Computer Science, Software Engineering, Cyber Security, Systems Engineering and Robotics, and I work on side-projects and my hobbies in my free time.
 I am also studying biology alongside Data Science and AI at university.
