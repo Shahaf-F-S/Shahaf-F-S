@@ -31,8 +31,6 @@ I have taught and currently teach a variety of advanced topics, including:
 ## 🛠️ Tech Stack & Tools
 
 - **Languages** <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="21px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="21px">    <img src="https://miro.medium.com/v2/resize:fit:1024/1*grcYwW_zgkpzP0VEsh3vOg.png" width="21px">
-
-### Libraries & Frameworks
 - **Data & Vision:** Pandas <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" width="21px"> | NumPy <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" width="21px"> | OpenCV <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" width="21px">
 - **Machine Learning:** TensorFlow <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" width="21px"> | Keras <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/500px-Keras_logo.svg.png" width="21px"> | PyTorch <img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" width="21px"> | Scikit-Learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="21px">
 - **Networking:** FastAPI <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="21px"> | Uvicorn | Socket | HTMX | Scapy | WireShark
