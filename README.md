@@ -30,14 +30,13 @@ I have taught and currently teach a variety of advanced topics, including:
 
 ## 🛠️ Tech Stack & Tools
 
-### Languages
-<img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="21px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="21px">    <img src="https://miro.medium.com/v2/resize:fit:1024/1*grcYwW_zgkpzP0VEsh3vOg.png" width="21px">
+***Languages*** <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="21px">    <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="21px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="21px">    <img src="https://miro.medium.com/v2/resize:fit:1024/1*grcYwW_zgkpzP0VEsh3vOg.png" width="21px">
 
 ### Libraries & Frameworks
 - **Data & Vision:** Pandas <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" width="21px"> | NumPy <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" width="21px"> | OpenCV <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" width="21px">
 - **Machine Learning:** TensorFlow <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" width="21px"> | Keras <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/500px-Keras_logo.svg.png" width="21px"> | PyTorch <img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" width="21px"> | Scikit-Learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="21px">
 - **Networking:** FastAPI <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="21px"> | Uvicorn | Socket | HTMX | Scapy | WireShark
-- **Finance & Crypto:** yfinance | TA-Lib | pandas-ta | backtest.py | ccxt
+- **Finance & Crypto:** yfinance | TA-Lib | pandas-ta | ccxt
 - **GUI Development:** Flutter/Flet
 
 ## 🚀 Featured Projects
@@ -49,9 +48,9 @@ Here is a selection of projects I've built or am currently developing:
 - **Real-Time Crypto Arbitrage Engine:** A low-memory, asynchronous framework for screening, recording, and modeling cryptocurrency data. It manages high-level trade chain representations and features an active arbitrage engine.
 
 ### 🔐 Systems & Security
-- **Remote Orchestration & Automation Engine:** A dynamic Python/JSON-based system for controlling secondary computers. Features include encapsulated shared memory, parallel/sequential command execution, memory manipulation, and remote shell execution.
+- **Remote Orchestration & Automation Engine:** A dynamic and secure system for controlling secondary computers. Features include encapsulated shared memory, parallel/sequential command execution, memory manipulation, and remote shell execution.
 - **Browser Forensics Library:** A Python library for securely extracting, decrypting, and collecting sensitive local database data from all major web browsers across Windows, Linux, and macOS.
-- **Executable Binder CLI:** A command-line tool for programmatically binding multiple files into a single executable that can run custom specified commands.
+- **Autonomous Infectious EXE:** A command-line tool for programmatically binding multiple files into a single executable that can run custom commands, and embed itself in other executable files.
 
 ### 🤖 AI, Vision & Math
 - **Texas-Hold'em Probability Engine:** A full game framework featuring a highly efficient math engine to compute outcomes and success probabilities at any stage. Includes computer vision for card detection and seamless web API integration.
