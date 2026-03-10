@@ -5,7 +5,7 @@
 I am a passionate software developer, an academic, a teacher, and a pianist. I instruct students in Computer Science, Software Engineering, Cyber Security, and AI. 
 I am currently studying Molecular Biology alongside Data Science and AI at university.
 
-> **Fun Fact:** In my native language, my name means *Seagull* 🪽. It’s a common name where I live, and I love the connection to the sea and sky!
+> **Fun Fact:** In my native language, my name means *Seagull* 🪽. It’s a known first name where I live, and I love the connection to the sea and sky!
 
 ---
 
