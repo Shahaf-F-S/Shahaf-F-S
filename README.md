@@ -36,9 +36,9 @@ I have taught and currently teach a variety of advanced topics, including:
 
 ### Libraries & Frameworks
 - **Data & Vision:** Pandas <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" width="21px"> | NumPy <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" width="21px"> | OpenCV <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" width="21px">
-- **Machine Learning:** TensorFlow <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" width="21px"> | Keras <img src="https://static-00.iconduck.com/assets.00/keras-icon-512x512-q43erbjp.png" width="21px"> | PyTorch <img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" width="21px"> | Scikit-Learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="21px">
-- **Networking:** FastAPI <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="21px"> | Uvicorn | Socket | HTMX | Scapy | *Custom: reverse-shell-io, sockets-io, data-place*
-- **Finance & Crypto:** yfinance | TA-Lib | pandas-ta | backtest.py | ccxt | *Custom: cryptocore*
+- **Machine Learning:** TensorFlow <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" width="21px"> | Keras <img src="https://static-00.iconduck.com/assets.00/keras-icon-512x512-q43erbjp.png" width="21px"> | PyTorch <img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" width="21px"> | Scikit-Learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="21px">
+- **Networking:** FastAPI <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="21px"> | Uvicorn | Socket | HTMX | Scapy
+- **Finance & Crypto:** yfinance | TA-Lib | pandas-ta | backtest.py | ccxt
 - **GUI Development:** Flutter/Flet
 
 ## 🚀 Featured Projects
