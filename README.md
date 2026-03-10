@@ -1,106 +1,63 @@
-# Hi 👋 My name is Shahaf
+# Hi 👋 I'm Shahaf
 
+**Software Developer | Educator | Musician**
 
-I am a passionate software developer and a pianist.
+I am a passionate software developer and pianist. By day, I am a high-school teacher instructing students in Computer Science, Software Engineering, Cyber Security, and AI. By night (and in my free time!), I dive into my own side projects. 
 
-I am a high-school teacher, teaching Computer Science, Software Engineering, Cyber Security, Systems Engineering and Robotics, and I work on side-projects and my hobbies in my free time.
-I am also studying biology alongside Data Science and AI at university.
+I am currently studying Biology alongside Data Science and AI at university.
 
-Courses and topics I have taught and currently teach:
+> **Fun Fact:** In my native language, my name means *Seagull* 🪽. It’s a common name where I live, and I love the connection to the sea and sky!
 
-- programming in Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
-- Programming in C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
-- Data Structures & Algorithms <a title="Data Structures & Algorithms"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="Data Structures & Algorithms" width="21px" height="21px"></a>
-- Networking & Cyber-Security & Cryptography & Software Engineering <a title="Networking & Data Systems"><img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking & Data Systems" width="21px" height="21px"></a>
-- Formal Languages & State Machines <a title="State Machines"><img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px"></a>
-- Deep Learning - Neural Networks <a title="Deep Learning"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103787.png" alt="Deep Learning" width="21px" height="21px"></a>
-- Control Systems & Robotics <a title="Deep Learning"><img src="https://www.protolabs.com/media/ht5byogn/robotics-icon.png" alt="Deep Learning" width="21px" height="21px"></a>
-- Numerical Systems & Electronics <a title="Deep Learning"><img src="https://cdn0.iconfinder.com/data/icons/engineering-3/64/electronics-512.png" alt="Deep Learning" width="21px" height="21px"></a>
+---
 
-I was also a mentor of an FLL team and a member of an FRC team back when I was in high-school.
+## 🔭 Fields of Interest
+I am constantly exploring new domains, but I am most deeply interested in:
+- **AI & Optimization:** Data Science, Machine Learning, Deep Learning, Genetic Algorithms, and Neuro-Evolution.
+- **Molecular Bio-Chemistry & Quantum Computation**
+- **Finance & Quant:** Quantitative Programming and High-Frequency trading systems based on Data and ML.
+- **Cyber Security:** Networking, cryptography, remote telemetry, device forensics, and data security.
 
+---
 
-#### Fun fact: In my native language, the meaning of my name is a seagull 🪽, sounds bad, but it's not a rare name where I live.
+## 📚 What I Teach
+I have taught and currently teach a variety of advanced topics, including:
 
-The fields of software engineering in which I'm most interested, are: 
-- Finance, Quantitative Programming, and Algorithmic Trading
-- Data Science, Machine Learning, Deep Learning, Genetic Algorithms and Neuro-Evolution
-- Cyber Security, networking and communication, cryptography & data security, spying on devices, remote mass infection and take-over, and more
-- real-time large-scale systems for data handling, processing, storing, and serving
-- and more...
+- **Programming:** Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> | C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
+- **Core CS:** Data Structures & Algorithms <img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="DSA" width="21px" height="21px"> | Formal Languages & Theory of Computation <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px">
+- **Security & Systems:** Networking, Cyber-Security, & Cryptography <img src="https://cdn-icons-png.flaticon.com/512/10435/10435231.png" alt="Networking" width="21px" height="21px">
+- **AI & Hardware:** Deep Learning/Neural Networks <img src="https://cdn-icons-png.flaticon.com/512/2103/2103787.png" alt="DL" width="21px" height="21px"> | Control Systems & Robotics <img src="https://www.protolabs.com/media/ht5byogn/robotics-icon.png" alt="Robotics" width="21px" height="21px"> | Numerical Systems & Electronics <img src="https://cdn0.iconfinder.com/data/icons/engineering-3/64/electronics-512.png" alt="Electronics" width="21px" height="21px">
 
-Tools, libraries, and languages I typically use:
+---
 
-(Programming Languages)
- - Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
- - C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
- - Java <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
- - C/C++ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a> <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
- - Arduino <a href=https://www.arduino.cc/ title="Arduino"><img src="https://miro.medium.com/v2/resize:fit:1024/1*grcYwW_zgkpzP0VEsh3vOg.png" alt="Arduino" width="21px" height="21px"></a>
- 
-(Data Processing Libreries)
- - pandas <a href=https://pandas.pydata.org/ title="Pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="Pandas" width="21px" height="21px"></a>
- - numpy <a href=https://numpy.org/ title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
- - opencv <a href=https://opencv.org/ title="OpenCV"><img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="21px" height="21px"></a>
+## 🛠️ Tech Stack & Tools
 
-(ML and DL Libraries)
- - tensoflow <a href=https://opencv.org/ title="Tensorflow"><img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="Tensorflow" width="21px" height="21px"></a>
- - keras <a href=https://keras.io/ title="Keras"><img src="https://static-00.iconduck.com/assets.00/keras-icon-512x512-q43erbjp.png" alt="Keras" width="21px" height="21px"></a>
- - torch <a href=https://pytorch.org/ title="Torch"><img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" alt="Torch" width="21px" height="21px"></a>
- - scikit-learn <a href=https://opencv.org/ title="Scikit-Learn"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" width="40px" height="21px"></a>
+### Languages
+- **Python** <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" width="21px"> | **C#** <img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" width="21px"> | **Java** <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" width="21px"> | **C/C++** <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="21px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" width="21px"> | **Arduino** <img src="https://miro.medium.com/v2/resize:fit:1024/1*grcYwW_zgkpzP0VEsh3vOg.png" width="21px">
 
- (Networking Libraries)
- - fastapi <a href=https://fastapi.tiangolo.com/ title="FastAPI"><img src=https://cdn.worldvectorlogo.com/logos/fastapi.svg alt="FastAPI" width="21px" height="21px"></a>
- - uvicorn
- - socket
- - htmx
- - scapy
- - reverse-shell-io (written by me)
- - sockets-io (written by me)
- - data-place (written by me)
+### Libraries & Frameworks
+- **Data & Vision:** Pandas <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" width="21px"> | NumPy <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" width="21px"> | OpenCV <img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" width="21px">
+- **Machine Learning:** TensorFlow <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" width="21px"> | Keras <img src="https://static-00.iconduck.com/assets.00/keras-icon-512x512-q43erbjp.png" width="21px"> | PyTorch <img src="https://github.com/get-icon/geticon/raw/master/icons/pytorch.svg" width="21px"> | Scikit-Learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="21px">
+- **Networking:** FastAPI <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="21px"> | Uvicorn | Socket | HTMX | Scapy | *Custom: reverse-shell-io, sockets-io, data-place*
+- **Finance & Crypto:** yfinance | TA-Lib | pandas-ta | backtest.py | ccxt | *Custom: cryptocore*
+- **GUI Development:** Flutter/Flet
 
-(Finance Libraries)
-- yfinance
-- TALib
-- pandasTA
-- backtest.py
+## 🚀 Featured Projects
 
-(Cryptocurrency Libraries)
- - ccxt
- - cryptocore (written by me)
+Here is a selection of projects I've built or am currently developing:
 
-(GUI Development)
- - tkinter (Python)
- - kivy/kivyMD (Python)
- - Android (Java/Kotlin)
- - flutter/flet (Dart/Python)
+### 📈 Finance & Trading & AI
+- **High-Frequency ML-based Price direction Prediction:** a real-time framework for producing and running Crypto price direction classification units, as well as serving and recording this data in efficiency.
+- **Real-Time Crypto Arbitrage Engine:** A low-memory, asynchronous framework for screening, recording, and modeling cryptocurrency data. It manages high-level trade chain representations and features an active arbitrage engine.
 
-(IDEs - by JetBrains only 🙃)
- - Pycharm (Python)
- - IntelliJ (Java)
- - Clion (C/C++)
- - Rider (C#)
+### 🔐 Systems & Security
+- **Remote Orchestration & Automation Engine:** A dynamic Python/JSON-based system for controlling secondary computers. Features include encapsulated shared memory, parallel/sequential command execution, memory manipulation, and remote shell execution.
+- **Browser Forensics Library:** A Python library for securely extracting, decrypting, and collecting sensitive local database data from all major web browsers across Windows, Linux, and macOS.
+- **Executable Binder CLI:** A command-line tool for programmatically binding multiple files into a single executable that can run custom specified commands.
 
-(other tools)
- - WireShark
+### 🤖 AI, Vision & Math
+- **Texas-Hold'em Probability Engine:** A full game framework featuring a highly efficient math engine to compute outcomes and success probabilities at any stage. Includes computer vision for card detection and seamless web API integration.
+- **ALPR System:** Automatic License Plate Recognition and extraction powered by Machine Learning.
+- **3D Photogrammetry Wrapper:** A Python wrapper for AliceVision's Meshroom that automates the generation of 3D models from 2D source images.
 
-### Some of the projects I have worked on (or still am working on):
-  - Automatic low-memory, async, real-time cryptocurrency framework for screening, recording, modeling, experimenting, and sharing data. Also manages high-level trade chain representations, including an arbitrage engine.
-
-  - Supervised and Unsupervised machine learning systems for stock market price analysis, trend detection, and more.
-
-  - Automation and orchestration system for controlling one computer using another, with a flexible and dynamic python/JSON based interface. Enables encapsulated/shared memory for processes, running commands sequentially/in parallel, creating custom commands, manipulating memory, transferring and creating files, executing code, running shell commands, and more.
-        
-  - A Texas-Hold'em framework, with an efficient probability engine to compute all possible outcomes of the game at any stage, and calculate chances of success according to multiple criteria. Includes a game engine to run the game, vision card detection, and is easily integrated with web APIs.
-
-  - A CLI tool for binding programmatically many files into an executable, able to run custom commands using the specified files.
-    
-  - A python librery for extracting, decrypting and collecting sensitive data from the local databases of all major web-browsers, on windows, linux, and mac.
-    
-  - Auto license plate recognition and extraction using Machine Learning.
-        
-  - A video editing framework in Python, fully supporting video and audio, enabling you to load and save, cut and merge, edit, replace, and everything in between.
-    
-  - A Python wrapper around AliceVision's Meshroom Photogrammetry software, for automatically creating 3D models from source images of an object.
-    
-  - A composition-based framework for easily controlling loops and conditions-based operations, in single and multi-threading, asynchronous, with pausing and unpausing capabilities, timeout and delays, input arguments and real-time output storage, running, rerunning, terminating, and automatic exception handling.
+### 🛠️ Utilities & Frameworks
+- **Python Video Editor:** A fully functional video and audio editing framework allowing for programmatic loading, cutting, merging, replacing, and saving of media files.
