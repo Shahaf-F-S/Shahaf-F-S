@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shahaf
 
-**Software Developer | Educator | Musician**
+**Software Developer | Educator | Musician | Academic**
 
 I am a passionate software developer, an academic, a teacher, and a pianist. I instruct students in Computer Science, Software Engineering, Cyber Security, and AI. 
 I am currently studying Molecular Biology alongside Data Science and AI at university.
@@ -11,15 +11,15 @@ I am currently studying Molecular Biology alongside Data Science and AI at unive
 
 ## 🔭 Fields of Interest
 I am constantly exploring new domains, but I am most deeply interested in:
-- **AI & Optimization:** Data Science, Machine Learning, Deep Learning, Genetic Algorithms, and Neuro-Evolution.
-- **Molecular Bio-Chemistry & Quantum Computation**
-- **Finance & Quant:** Quantitative Programming and High-Frequency trading systems based on Data and ML.
-- **Cyber Security:** Networking, cryptography, remote telemetry, device forensics, and data security.
+- **AI & Optimization:** Dynamic Learning Systems, Machine Learning, Deep Learning, Genetic Algorithms, Optimization.
+- **Bio-Chemistry & Quantum Physics**
+- **Finance & Quant:** Quantitative Programming and High-Frequency trading systems based on Data and Statistics.
+- **Cyber Security:** Networking, Cryptography, remote Telemetry, device forensics, and data security.
 
 ---
 
 ## 📚 What I Teach
-I have taught and currently teach a variety of advanced topics, including:
+I have taught and/or currently teach a variety of advanced topics, including:
 
 - **Programming:** Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> | C# <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
 - **Core CS:** Data Structures & Algorithms <img src="https://cdn-icons-png.flaticon.com/512/8637/8637656.png" alt="DSA" width="21px" height="21px"> | Formal Languages & Theory of Computation <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/state_machine_icon_137150.png" alt="State Machines" width="21px" height="21px">
