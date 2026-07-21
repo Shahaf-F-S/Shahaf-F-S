@@ -11,11 +11,10 @@ I am currently studying Molecular Biology alongside Data Science and AI at unive
 
 ## 🔭 Fields of Interest
 I am constantly exploring new domains, but I am most deeply interested in:
-- **AI & Optimization:** Dynamic Learning Systems, Machine Learning, Deep Learning, Genetic Algorithms, Optimization.
-- **Bio-Chemistry & Quantum Physics**
+- **AI & Optimization:** Dynamic Learning Systems, Machine Learning, Deep Learning, Genetic Algorithms, Optimization Theory.
 - **Finance & Quant:** Quantitative Programming and High-Frequency trading systems based on Data and Statistics.
 - **Cyber Security:** Networking, Cryptography, remote Telemetry, device forensics, and data security.
-
+- **Bio-Chemistry & Quantum Physics**
 ---
 
 ## 📚 What I Teach
